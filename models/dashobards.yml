@@ -5,7 +5,7 @@ exposures:
     label: Executive Summary
     type: dashboard
     maturity: low
-    url: https://7e942fbd.us2a.app.preset.io:443/r/2
+    url: https://app.powerbi.com/links/PGrFK343al?ctid=d52c9ea1-7c21-47b1-82a3-33a74b1f74b8&pbi_source=linkShare
     description: Executive Dashboard about Airbnb listings and hosts
       
 
