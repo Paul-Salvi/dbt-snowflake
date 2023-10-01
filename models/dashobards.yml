@@ -1,7 +1,8 @@
 version: 2
 
 exposures:
-  - name: Executive Dashboard
+  - name: Executive_Dashboard
+    label: Executive Summary
     type: dashboard
     maturity: low
     url: https://7e942fbd.us2a.app.preset.io:443/r/2
@@ -13,5 +14,5 @@ exposures:
       - ref('full_moon_reviews')
 
     owner:
-      name: Zoltan C. Toth
+      name: Paul Salvi
       email: hello@learndbt.com
